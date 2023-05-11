@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('auth.css');
+@import url('common.css');
+@import url('header.css');
+@import url('main.css');
+@import url('profile.css');
+@import url('detail.css');
+@import url('cart.css');
+@import url('admin/header.css');
+@import url('admin/main.css');
+@import url('admin/tab.css');
+@import url('admin/product.css');
+@import url('order.css');
+@import url('purchaser.css');
+
+
+
+

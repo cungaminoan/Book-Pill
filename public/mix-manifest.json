@@ -1,0 +1,18 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/assets/js/admin/orderAdmin.js": "/assets/js/admin/orderAdmin.js",
+    "/assets/js/admin/product.js": "/assets/js/admin/product.js",
+    "/assets/js/admin/statistical.js": "/assets/js/admin/statistical.js",
+    "/assets/js/admin/tab.js": "/assets/js/admin/tab.js",
+    "/assets/js/admin/user.js": "/assets/js/admin/user.js",
+    "/assets/js/app.js": "/assets/js/app.js",
+    "/assets/js/bootstrap.js": "/assets/js/bootstrap.js",
+    "/assets/js/cart.js": "/assets/js/cart.js",
+    "/assets/js/detail.js": "/assets/js/detail.js",
+    "/assets/js/header.js": "/assets/js/header.js",
+    "/assets/js/main.js": "/assets/js/main.js",
+    "/assets/js/order.js": "/assets/js/order.js",
+    "/assets/js/purchaser.js": "/assets/js/purchaser.js",
+    "/assets/js/user.js": "/assets/js/user.js"
+}

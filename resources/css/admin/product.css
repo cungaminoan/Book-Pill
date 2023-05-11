@@ -1,0 +1,58 @@
+.label_content_product {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 12px 0;
+    border-bottom: 1px solid #566FEF;
+}
+
+.content_product {
+    font-weight: 600;
+    font-size: 20px;
+    color: #566FEF;
+}
+
+.image_border {
+    border: 1px solid #566FEF;
+}
+
+.custom-file-input::-webkit-file-upload-button {
+    visibility: hidden;
+}
+
+.custom-file-input {
+    width: 156px;
+}
+
+.custom-file-input::before {
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+    white-space: nowrap;
+    display: inline-block;
+    -webkit-user-select: none;
+    color: white;
+    background-image: linear-gradient(to bottom, #566FEF, #53A4E4);
+    text-transform: uppercase;
+    padding: 12px;
+    height: 50px;
+}
+
+.custom-file-input:hover::before {
+    color: white !important;
+    text-decoration: none !important;
+    background-image: linear-gradient(to bottom, #566FEF, #53A4E4);
+    opacity: 0.8;
+}
+
+.custom-file-input-add:before {
+    content: 'Upload image';
+}
+
+.custom-file-input-edit:before {
+    content: 'Change image';
+}
+
+
+

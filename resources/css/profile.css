@@ -1,0 +1,42 @@
+.dashboard_profile {
+    width: 180px;
+    margin-right: 1.6875rem
+}
+
+.header_profile{
+    padding: 15px 0;
+}
+
+.edit_profile {
+    color: rgb(155, 155, 155);
+    font-size: 14px;
+}
+
+.edit_profile:hover {
+    cursor: pointer;
+}
+
+.profile_content {
+    padding: 0 1.875rem 0.625rem;
+    background-color: white;
+    box-shadow: 0 0 3px 0 rgb(0 0 0 / 75%);
+}
+
+.label_content_profile {
+    font-size: 14px;
+    color: rgba(85, 85, 85, 0.8);
+}
+
+.username_profile {
+    overflow: hidden;
+    width: 88px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.active_choice_tab_profile i,
+.active_choice_tab_profile span
+{
+    color: rgb(217 119 6 / var(--tw-text-opacity)) !important;
+}
+

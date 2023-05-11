@@ -1,0 +1,80 @@
+.header-auth {
+    height: 84px;
+    background-color: white;
+    padding: 0 40px;
+    box-shadow: 0 6px 6px rgb(0 0 0 / 6%);
+}
+
+.image_header {
+    cursor: pointer;
+}
+
+.image_large {
+    position: relative;
+}
+
+.auth_area {
+    position: absolute;
+    width: 400px;
+    height: auto;
+    background-color: white;
+    right: 4%;
+    box-shadow: 0 3px 10px 0 rgb(0 0 0 / 14%);
+    border-radius: 4px;
+    padding: 1.375rem 30px
+}
+
+.auth-header-text {
+    font-size: 1.25rem;
+    color: #222;
+}
+
+.input_auth_username{
+    padding: 0.5rem;
+    outline: none;
+    margin-bottom: 2rem;
+    border: 1px rgba(26, 32, 44, 0.13) solid;
+}
+
+.input_auth_password {
+    outline: none;
+    border: 1px rgba(26, 32, 44, 0.13) solid;
+    position: relative;
+    padding: 0.5rem 11% 0.5rem 0.5rem;
+}
+
+.icon-eye {
+    position: absolute;
+    cursor: pointer;
+    font-size: 18px;
+    right: 10%;
+}
+
+.text-link {
+    font-size: 14px;
+    color: #566FEF;
+}
+
+.text-link-switch {
+    font-size: 14px;
+    color: #566FEF;
+    font-weight: 500;
+}
+
+.reset-pass-modal {
+    padding: 32px 0;
+    min-height: 275px;
+    height: auto;
+    background-color: #fff;
+    box-sizing: border-box;
+    box-shadow: 0 3px 10px 0 rgb(0 0 0 / 14%);
+    border-radius: 4px;
+    overflow: hidden;
+    width: 500px;
+}
+
+.title-reset-pass {
+    font-size: 1.25rem;
+    color: #222;
+}
+
