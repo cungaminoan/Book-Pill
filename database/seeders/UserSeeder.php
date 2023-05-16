@@ -18,11 +18,11 @@ class UserSeeder extends Seeder
     {
         DB::table('users')->insert(array(
             array(
-                'full_name' => 'Nguyen Ngoc Nghia',
-                'username' => 'nghiann',
+                'full_name' => 'shyawannalove',
+                'username' => 'shya',
                 'phone_number' => '0964343115',
-                'date_of_birth' => Carbon::parse('26-07-2001')->format('Y-m-d'),
-                'email' => 'nghiann@zyyx.jp',
+                'date_of_birth' => Carbon::parse('10-12-2001')->format('Y-m-d'),
+                'email' => 'shyawannalove@gmail.com',
                 'password' => sha1('admin'),
                 'gender' => 1,
                 'role' => 2,
@@ -34,8 +34,8 @@ class UserSeeder extends Seeder
                 'full_name' => 'Admin BookPill',
                 'username' => 'Admin BookPill',
                 'phone_number' => '0964343115',
-                'date_of_birth' => Carbon::parse('26-07-2001')->format('Y-m-d'),
-                'email' => 'nghia.nn260701@gmail.com',
+                'date_of_birth' => Carbon::parse('10-12-2001')->format('Y-m-d'),
+                'email' => 'cungaminoan@gmail.com',
                 'password' => sha1('admin'),
                 'gender' => 1,
                 'role' => 1,
